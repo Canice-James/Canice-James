@@ -2,13 +2,8 @@
 <h1 align='center'> Hi there 👋, I'm Canice 🍍💻 </h1>
 
 <p align='center'>
-  Reigning from the streets and beaches in the <b>Caribbean</b> 
+  Hailing from the streets and beaches in the <b>Caribbean</b> 
 </p>
-
-<!-- <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc"></a>
-</p> -->
-
 
 <p align='center'>
   <a href="https://instagram.com/_ecanic_"><img src="https://img.shields.io/badge/-instagram-blue?logo=instagram&style=for-the-badge&color=fc9" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +35,7 @@ Here are some ideas to get you started:
 
 <h5> Frameworks</h5>
 <p >
- <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-angular-critical?logo=angular&style=for-the-badge" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-mongodb-green?logo=mongodb&style=for-the-badge" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ExpressJS API-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-angular-critical?logo=angular&style=for-the-badge" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=white" />&nbsp;&nbsp;  <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-mongodb-green?logo=mongodb&style=for-the-badge" />&nbsp;&nbsp;
 </p>
 
 <hr>
