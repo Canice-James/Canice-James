@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 <p align="right">
   <a href="https://kitsu.io/users/Ecanic"><img src="https://img.shields.io/badge/-Anime%20Profile-F47521?logo=crunchyroll&style=for-the-badge&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/ecanic/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
 
 
