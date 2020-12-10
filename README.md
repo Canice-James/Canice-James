@@ -43,12 +43,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-angular-critical?logo=angular&style=for-the-badge" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&style=for-the-badge&logoColor=black" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-mongodb-green?logo=mongodb&style=for-the-badge" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
-<h5>Public Projects (You'll hear of the private ones one day✨)</h5>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Canice-James&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <hr>
 
 <br>
